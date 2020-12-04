@@ -7,4 +7,4 @@ from allennlp.data.token_indexers import SingleIdTokenIndexer, TokenIndexer
 class CoNLL03DatasetReader(DatasetReader):
     pass
 
-clas no
+clas iiiiiiii
