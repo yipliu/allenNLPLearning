@@ -6,5 +6,3 @@ from allennlp.data.token_indexers import SingleIdTokenIndexer, TokenIndexer
 @DatasetReader.register("conll_03_reader")
 class CoNLL03DatasetReader(DatasetReader):
     pass
-
-clas iiiiiiii
