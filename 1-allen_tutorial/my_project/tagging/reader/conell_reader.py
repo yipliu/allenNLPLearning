@@ -10,7 +10,9 @@ from allennlp.data.tokenizers import Token
 import itertools
 
 
-
+"""
+SingleIdTokenIndexer: translate string (in the input) into token ids
+"""
 
 
 
